@@ -1,0 +1,10 @@
+.main{
+    border-radius: 2rem;
+    background-color: black;
+}
+.bgcolor{
+    border-radius: 5%;
+    opacity: 20%;
+    background-color: gray;
+    
+}
