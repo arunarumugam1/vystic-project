@@ -51,10 +51,11 @@ export default function Six(){
                     </div>
 
                 <div className='col-lg-1'>&nbsp;</div>
-                <div className=' dk col-lg-3 p-3'>
-                    <h1 className=''>Exchange,<br/>send and spend <br/>at greate rates</h1>
-                </div>
-                <div className='col-lg-1'>&nbsp;</div>
+                    <div className=' dk col-lg-3 p-3'>
+                        <h1 className='text-light'>Exchange,<br/>send and spend <br/>at greate rates</h1>
+                        <h5 className='gren text-success'>Explore Exchanges</h5>
+                    </div>
+                    <div className='col-lg-1'>&nbsp;</div>
                 </div>
             </div>
 
@@ -95,24 +96,24 @@ export default function Six(){
                     <h1 className='text-light'>Control all your spend<br/>with smart rules</h1>
                 <div className='row'>
                     <div className='col-lg-2'>&nbsp;</div>
-                    <div className='dk col-lg-8 p-3 mt-3'> cosmetic    march 25,2022    $100</div>
+                    <div className='hov col-lg-8 p-3 mt-3'> cosmetic  march 25,2022    $100</div>
                     <div className='col-lg-2'>&nbsp;</div>
 
                     <div className='col-lg-2'>&nbsp;</div>
-                    <div className='dk col-lg-8 p-3 mt-3'> cosmetic    march 25,2022    $100</div>
+                    <div className='hov col-lg-8 p-3 mt-3'> Food    march 29,2022    $45</div>
                     <div className='col-lg-2'>&nbsp;</div>
 
                     <div className='col-lg-2'>&nbsp;</div>
-                    <div className='dk col-lg-8 p-3 mt-3'> cosmetic    march 25,2022    $100</div>
+                    <div className='hov col-lg-8 p-3 mt-3'> Shoping    march 27,2022    -$241</div>
                     <div className='col-lg-2'>&nbsp;</div>
 
 
                     <div className='col-lg-2'>&nbsp;</div>
-                    <div className='dk col-lg-8 p-3 mt-3'> cosmetic    march 25,2022    $100</div>
+                    <div className='hov col-lg-8 p-3 mt-3'> Others    march 25,2022    $100</div>
                     <div className='col-lg-2'>&nbsp;</div>
 
                     <div className='col-lg-2'>&nbsp;</div>
-                    <div className='dk col-lg-8 p-3 mt-3 mb-5'> cosmetic    march 25,2022    $100</div>
+                    <div className='hov col-lg-8 p-3 mt-3 mb-5'> Tech    march 29,2022    $45</div>
                     <div className='col-lg-2'>&nbsp;</div>
                 </div>
             </div>

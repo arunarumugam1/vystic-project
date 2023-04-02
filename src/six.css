@@ -13,3 +13,18 @@
     background-color: rgb(56, 56, 56);
     border-radius: 1rem;
 }
+.hov{
+    background-color: gray;
+    border-radius: 1rem;
+}
+.hov:hover{
+    background-color: lightblue;
+    color: white;
+    transition: 0.3s;
+    transform: rotateY(30deg) scale(1.25);
+    z-index: 1;
+    box-shadow: 0 25px 40px rgb(56, 56, 56);
+}
+.gren{
+    margin-top: 140%;
+}

@@ -8,7 +8,7 @@ export default function Second(){
         <div className='container'>
             <div className='row'>
                 <div className='col-lg-4'>
-                    <h1 className='heading'>
+                    <h1 className='heading text-center'>
                         We keep your<br/>money safe
                     </h1>
                     <p className='para'>Keep your money safe with our anti-fraud system.

@@ -4,6 +4,7 @@ import btm from './source/first.png'
 import './first.css'
 
 
+
 export default function First(){
 
     return(
@@ -53,13 +54,8 @@ export default function First(){
 
                </div>
                <div className='col-lg-2'> &nbsp;
-
-               </div>
-                
-               
+               </div>   
             </div>
-
-
         </div>
         </>
     )
